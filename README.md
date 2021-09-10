@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning UI Designing
+- 🌱 I’m currently learning UI Designing,React-Native
 - 📫 How to reach me: kavyashetty66@gmail.com
 -->
